@@ -1,0 +1,169 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans Mono', monospace;
+    font-weight: 300;
+}
+.right
+{
+    margin: 70px 0 0 70px ;
+
+}
+h1
+{
+    font-size: 14px;
+    font-weight: 700;
+}
+h2
+{
+    margin-top: 13px;
+    font-size: 48px;
+    font-weight: 700;
+}
+.text
+{
+    margin-top: 13px;
+    width:800px; 
+}
+h3
+{
+    margin-top: 70px;
+    font-size: 24px;
+    font-weight: 700;
+}
+.project
+{
+    margin-left: 30px;
+}
+.project li
+{
+    margin-top: 10px;
+    font-weight: 700;
+}
+.project a
+{
+    color: black;
+    text-decoration: none;
+    margin-right: 300px;
+}
+.project a:hover
+{
+    color: orange;
+    text-decoration: underline;
+}
+h4
+{
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 700;
+}
+h4 span
+{
+    color: orange;
+    font-weight: 700;
+    
+}
+.text1
+{
+    margin-top: 10px;
+    font-size:12px;
+    opacity: .5;
+}
+.work
+{
+    margin-top:10px;
+    margin-left:20px;
+
+}
+.lift img
+{
+    width:100%;
+    
+}
+.info 
+{
+    display: flex;
+    height: 100vh;
+}
+.lift
+{
+    background-color: rgb(19, 22, 67);
+}
+.contacs
+{
+    margin-top: 20px;
+    margin-left: 25px;
+    color:rgb(255, 255, 255);
+}
+.number i
+{
+    
+    font-size: 15px;
+    color: white;
+}
+.number
+{
+    margin-top: 15px;
+    margin-left: 25px;
+}
+.number a
+{
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+}
+.number a:hover
+{
+   color: orange; 
+   text-decoration: underline; 
+}
+.mail i
+{
+    font-size: 15px;
+    color: white;
+}
+.mail
+{
+    margin-top: 15px;
+    margin-left: 25px;
+}
+.mail a
+{
+    font-size: 18px;
+    color: white;
+    text-decoration: none;
+}
+.mail a:hover
+{
+    color: orange; 
+    text-decoration: underline; 
+}
+.skil
+{
+    margin-top: 20px;
+    margin-right: 30px;
+    color: white;
+
+
+}
+.skil1
+{
+    margin-top: 15px;
+    margin-left: 21px;
+    color: white;
+}
+.wrapper
+{
+    
+    display: flex;
+    justify-content: space-between;
+}
+.skil1 li
+{
+    color: orange;
+}
+.skil1 li span 
+{
+    color: white;
+}
